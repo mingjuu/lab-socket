@@ -509,3 +509,38 @@
 2023-11-12T13:22:17: PM2 log: pid=14043 msg=process killed
 2023-11-12T13:22:17: PM2 log: App [tcp-server:2] starting in -fork mode-
 2023-11-12T13:22:17: PM2 log: App [tcp-server:2] online
+2023-11-12T13:29:22: PM2 log: Change detected on path __pycache__ for app tcp-server - restarting
+2023-11-12T13:29:22: PM2 log: ===============================================================================
+2023-11-12T13:29:22: PM2 log: --- PM2 global error caught ---------------------------------------------------
+2023-11-12T13:29:22: PM2 log: Time                 : Sun Nov 12 2023 13:29:22 GMT+0000 (Coordinated Universal Time)
+2023-11-12T13:29:22: PM2 error: ENOENT: no such file or directory, uv_cwd
+2023-11-12T13:29:22: PM2 error: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd [as cwd] (internal/bootstrap/switches/does_own_process_state.js:128:26)
+    at Object.resolve (path.js:978:47)
+    at Object.God.findByName (/usr/local/lib/node_modules/pm2/lib/God/Methods.js:120:58)
+    at Object.God.restartProcessName (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:436:25)
+    at Timeout._onTimeout (/usr/local/lib/node_modules/pm2/lib/Watcher.js:67:13)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+2023-11-12T13:29:22: PM2 log: ===============================================================================
+2023-11-12T13:29:22: PM2 error: [PM2] Resurrecting PM2
+internal/bootstrap/switches/does_own_process_state.js:128
+  cachedCwd = rawMethods.cwd();
+                         ^
+
+Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd [as cwd] (internal/bootstrap/switches/does_own_process_state.js:128:26)
+    at new API (/usr/local/lib/node_modules/pm2/lib/API.js:69:24)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/binaries/CLI.js:22:11)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/bin/pm2:3:1) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'uv_cwd'
+}
+2023-11-12T13:29:22: PM2 log: PM2 successfully forked
