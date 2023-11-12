@@ -1,0 +1,511 @@
+2023-11-12T12:48:50: PM2 log: ===============================================================================
+2023-11-12T12:48:50: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-12T12:48:50: PM2 log: Time                 : Sun Nov 12 2023 12:48:50 GMT+0000 (Coordinated Universal Time)
+2023-11-12T12:48:50: PM2 log: PM2 version          : 5.3.0
+2023-11-12T12:48:50: PM2 log: Node.js version      : 12.22.12
+2023-11-12T12:48:50: PM2 log: Current arch         : x64
+2023-11-12T12:48:50: PM2 log: PM2 home             : /home/rbf070962/.pm2
+2023-11-12T12:48:50: PM2 log: PM2 PID file         : /home/rbf070962/.pm2/pm2.pid
+2023-11-12T12:48:50: PM2 log: RPC socket file      : /home/rbf070962/.pm2/rpc.sock
+2023-11-12T12:48:50: PM2 log: BUS socket file      : /home/rbf070962/.pm2/pub.sock
+2023-11-12T12:48:50: PM2 log: Application log path : /home/rbf070962/.pm2/logs
+2023-11-12T12:48:50: PM2 log: Worker Interval      : 30000
+2023-11-12T12:48:50: PM2 log: Process dump file    : /home/rbf070962/.pm2/dump.pm2
+2023-11-12T12:48:50: PM2 log: Concurrent actions   : 2
+2023-11-12T12:48:50: PM2 log: SIGTERM timeout      : 1600
+2023-11-12T12:48:50: PM2 log: ===============================================================================
+2023-11-12T13:02:46: PM2 log: [Watch] Start watching webhooks
+2023-11-12T13:02:46: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:46: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 error: Cancelling versioning data parsing
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 error: Error caught while calling pidusage
+2023-11-12T13:02:47: PM2 error: Error: No matching pid found
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] online
+2023-11-12T13:02:47: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:02:47: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:04:06: PM2 log: Change detected on path webhooks.py for app webhooks - restarting
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:06: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:06: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:04:19: PM2 log: [Watch] Stop watching webhooks
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:19: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] online
+2023-11-12T13:04:20: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:04:20: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:06:12: PM2 log: [Watch] Start watching webhooks
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:12: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:13: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:14: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:15: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:16: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:16: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:16: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:16: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:16: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:06:56: PM2 log: [Watch] Stop watching webhooks
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:56: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:57: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:58: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] online
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:06:59: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:00: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:00: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:07:27: PM2 log: [Watch] Start watching webhooks
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:27: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:28: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:29: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:30: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:31: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:31: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:31: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:31: PM2 log: App [webhooks:0] online
+2023-11-12T13:07:31: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:07:31: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:07:59: PM2 log: [Watch] Stop watching webhooks
+2023-11-12T13:07:59: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:07:59: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:00: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:01: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:02: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:03: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:03: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:08:37: PM2 log: [Watch] Start watching webhooks
+2023-11-12T13:08:37: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:37: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:37: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:37: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:37: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:38: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:39: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:40: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] online
+2023-11-12T13:08:41: PM2 log: App [webhooks:0] exited with code [1] via signal [SIGINT]
+2023-11-12T13:08:41: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:09:31: PM2 log: Change detected on path webhooks.py for app webhooks - restarting
+2023-11-12T13:09:31: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:09:31: PM2 log: App [webhooks:0] online
+2023-11-12T13:10:14: PM2 log: Stopping app:webhooks id:0
+2023-11-12T13:10:14: PM2 log: pid=13923 msg=failed to kill - retrying in 100ms
+2023-11-12T13:10:14: PM2 log: App [webhooks:0] exited with code [0] via signal [SIGINT]
+2023-11-12T13:10:14: PM2 log: pid=13923 msg=process killed
+2023-11-12T13:10:14: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:10:14: PM2 log: App [webhooks:0] online
+2023-11-12T13:10:20: PM2 log: [Watch] Start watching webhooks
+2023-11-12T13:10:20: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:20: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:20: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:20: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:20: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:21: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:22: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:23: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] starting in -fork mode-
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] online
+2023-11-12T13:10:24: PM2 log: App [webhooks:1] exited with code [1] via signal [SIGINT]
+2023-11-12T13:10:24: PM2 log: Script /home/rbf070962/github-webhooks/webhooks.py had too many unstable restarts (16). Stopped. "errored"
+2023-11-12T13:11:37: PM2 log: [Watch] Stop watching webhooks
+2023-11-12T13:11:37: PM2 log: Stopping app:webhooks id:1
+2023-11-12T13:11:37: PM2 error: app=webhooks id=1 does not have a pid
+2023-11-12T13:15:58: PM2 log: [Watch] Start watching tcp-server
+2023-11-12T13:15:58: PM2 log: App [tcp-server:2] starting in -fork mode-
+2023-11-12T13:15:58: PM2 log: App [tcp-server:2] online
+2023-11-12T13:20:52: PM2 log: Change detected on path tcp-server.py for app webhooks - restarting
+2023-11-12T13:20:52: PM2 log: Stopping app:webhooks id:0
+2023-11-12T13:20:52: PM2 log: pid=13955 msg=failed to kill - retrying in 100ms
+2023-11-12T13:20:52: PM2 log: App [webhooks:0] exited with code [0] via signal [SIGINT]
+2023-11-12T13:20:52: PM2 log: pid=13955 msg=process killed
+2023-11-12T13:20:52: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:20:52: PM2 log: App [webhooks:0] online
+2023-11-12T13:21:36: PM2 log: Change detected on path rbf070962 for app webhooks - restarting
+2023-11-12T13:21:36: PM2 log: Stopping app:webhooks id:0
+2023-11-12T13:21:36: PM2 log: pid=14080 msg=failed to kill - retrying in 100ms
+2023-11-12T13:21:36: PM2 log: App [webhooks:0] exited with code [0] via signal [SIGINT]
+2023-11-12T13:21:36: PM2 log: pid=14080 msg=process killed
+2023-11-12T13:21:36: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:21:36: PM2 log: App [webhooks:0] online
+2023-11-12T13:21:48: PM2 log: Change detected on path rbf070962 for app webhooks - restarting
+2023-11-12T13:21:48: PM2 log: Stopping app:webhooks id:0
+2023-11-12T13:21:48: PM2 log: pid=14105 msg=failed to kill - retrying in 100ms
+2023-11-12T13:21:48: PM2 log: App [webhooks:0] exited with code [0] via signal [SIGINT]
+2023-11-12T13:21:48: PM2 log: pid=14105 msg=process killed
+2023-11-12T13:21:48: PM2 log: App [webhooks:0] starting in -fork mode-
+2023-11-12T13:21:48: PM2 log: App [webhooks:0] online
+2023-11-12T13:22:17: PM2 log: Change detected on path tcp-server.py for app tcp-server - restarting
+2023-11-12T13:22:17: PM2 log: Stopping app:tcp-server id:2
+2023-11-12T13:22:17: PM2 log: App [tcp-server:2] exited with code [0] via signal [SIGINT]
+2023-11-12T13:22:17: PM2 log: pid=14043 msg=process killed
+2023-11-12T13:22:17: PM2 log: App [tcp-server:2] starting in -fork mode-
+2023-11-12T13:22:17: PM2 log: App [tcp-server:2] online
